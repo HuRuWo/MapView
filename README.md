@@ -9,9 +9,9 @@
 
 # 效果展示
 
-![gif.gif](https://upload-images.jianshu.io/upload_images/2898615-a263312fe7126fb2.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/370)
+![gif.gif](https://github.com/HuRuWo/MapView/blob/master/sceen/gif.gif)
 
-![click.gif](https://upload-images.jianshu.io/upload_images/2898615-07821830bd28f28c.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/370)
+![click.gif](https://github.com/HuRuWo/MapView/blob/master/sceen/click.gif)
 
 # 思路
 
